@@ -67,7 +67,7 @@ export const AddInvoiceStyle = styled.div`
           border-radius: 10px;
           outline: none;
         }
-        input {
+        /* input {
           border: 1px solid transparent;
         }
         input:valid {
@@ -75,7 +75,7 @@ export const AddInvoiceStyle = styled.div`
         }
         input:invalid {
           border-color: tomato;
-        }
+        } */
       }
     }
     /* position: absolute; */
