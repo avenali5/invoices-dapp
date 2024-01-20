@@ -52,9 +52,10 @@ const page = () => {
   return (
     <PageStyle>
       <Header />
-      <h1>
+      {/* <h1>
         Build on <br /> the <span className='gradient'>chain.</span>
-      </h1>
+      </h1> */}
+      <div style={{ flex: 1 }}></div>
       <Invoices setAddInvoice={setAddInvoice} />
       {addInvoice && <AddInvoice onClose={() => setAddInvoice(false)} />}
     </PageStyle>
