@@ -1,0 +1,39 @@
+<svg width="1280" height="832" viewBox="0 0 1280 832" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5_75)">
+<rect width="1280" height="832" fill="black"/>
+<ellipse cx="404.623" cy="772.961" rx="975.436" ry="584.794" transform="rotate(35.5546 404.623 772.961)" fill="url(#paint0_radial_5_75)"/>
+<g filter="url(#filter0_f_5_75)">
+<ellipse cx="1096.62" cy="710.65" rx="136" ry="91" transform="rotate(3.76338 1096.62 710.65)" fill="#B0E7DE"/>
+</g>
+<g filter="url(#filter1_f_5_75)">
+<circle cx="376.5" cy="723.5" r="68.5" fill="#0012FF"/>
+</g>
+<g filter="url(#filter2_f_5_75)">
+<path d="M1427.02 696.575C1427.75 809.515 1277.24 902.043 1090.84 903.242C904.452 904.441 752.763 813.857 752.036 700.917C751.31 587.977 901.821 495.449 1088.21 494.25C1274.61 493.051 1426.3 583.635 1427.02 696.575Z" fill="#E55E44"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_5_75" x="801.077" y="459.702" width="591.081" height="501.896" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="79.85" result="effect1_foregroundBlur_5_75"/>
+</filter>
+<filter id="filter1_f_5_75" x="131.7" y="478.7" width="489.6" height="489.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="88.15" result="effect1_foregroundBlur_5_75"/>
+</filter>
+<filter id="filter2_f_5_75" x="453.034" y="195.239" width="1272.99" height="1007.02" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="149.5" result="effect1_foregroundBlur_5_75"/>
+</filter>
+<radialGradient id="paint0_radial_5_75" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(404.623 772.961) rotate(90) scale(584.794 975.436)">
+<stop stop-color="#C55FE0"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_5_75">
+<rect width="1280" height="832" fill="white"/>
+</clipPath>
+</defs>
+</svg>
